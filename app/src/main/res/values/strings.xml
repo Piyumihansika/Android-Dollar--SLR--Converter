@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp1</string>
+    <string name="company_name">Industrial Master</string>
+    <string name="usd">USD</string>
+    <string name="lkr">LKR</string>
+    <string name="convert">Convert</string>
+</resources>
